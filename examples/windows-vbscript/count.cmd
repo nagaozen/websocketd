@@ -1,2 +1,2 @@
 @echo off
-cscript /nologo count.vbs
+cscript //nologo count.vbs
