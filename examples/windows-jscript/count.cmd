@@ -1,2 +1,2 @@
 @echo off
-cscript /nologo count.js
+cscript //nologo count.js
