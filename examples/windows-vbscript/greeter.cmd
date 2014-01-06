@@ -1,2 +1,2 @@
 @echo off
-cscript /nologo greeter.vbs
+cscript //nologo greeter.vbs
